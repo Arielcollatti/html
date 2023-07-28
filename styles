@@ -1,0 +1,13 @@
+body{
+    background-image: linear-gradient(180deg, black 00030 );
+    min-height: 100vh;
+}
+
+.ariel
+{
+    border: solid black 5px;
+    width: 25%;
+    height: 500px;
+    font-size: 30px;
+    background-color:black  liceblue;
+}
